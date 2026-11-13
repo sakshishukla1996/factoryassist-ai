@@ -1,0 +1,17 @@
+Procedure ID: SOP-P301-001
+Machine: P-301
+Machine Type: Hydraulic Transfer Pump
+Related Error Code: E-3018
+Title: Alarm Triage, Documentation and Escalation
+
+Approved Response Workflow:
+1. Record equipment ID, error code and pressure trend in the maintenance ticket.
+2. Notify the pump maintenance lead before any inspection.
+3. Use the site-approved isolation and authorisation process.
+4. Record findings, return-to-service approval and any follow-up task.
+
+Scope:
+This is a supervisory checklist, not a technical repair procedure. Technicians must consult the approved site maintenance manual and lockout requirements.
+
+Safety Note:
+Only authorised personnel may inspect, maintain or return equipment to service. This is synthetic training data.

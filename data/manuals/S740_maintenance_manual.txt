@@ -1,0 +1,21 @@
+Document ID: MAN-S740-001
+Machine: S-740
+Machine Type: Packaging Heat Sealer
+Title: Packaging Heat Sealer Maintenance Manual
+
+Error Code: E-7402
+Description: Seal-jaw temperature is below the validated packaging setpoint.
+
+Possible Causes:
+- Heater cartridge degradation
+- Temperature controller drift
+- Premature restart after warm-up
+
+Recommended Procedure:
+1. Stop release of potentially affected packaging lots.
+2. Notify packaging maintenance and quality assurance.
+3. Follow approved safe access controls before inspection.
+4. Revalidate seal quality before restarting production.
+
+Safety Note:
+Only authorised staff may inspect or service equipment. Follow the site's approved safety, isolation and return-to-service procedures. This is synthetic training data, not operational guidance.

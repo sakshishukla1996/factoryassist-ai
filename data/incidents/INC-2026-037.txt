@@ -1,0 +1,22 @@
+Incident ID: INC-2026-037
+Machine: D-960
+Machine Type: Label Inspection Station
+Date: 2026-10-07
+Error Code: E-9604
+Severity: Medium
+Status: Resolved
+
+Issue:
+A maintenance alert occurred because barcode readability has fallen below the inspection acceptance threshold.
+
+Investigation:
+Sample labels failed contrast checks while camera calibration passed; inspection identified a depleted ribbon.
+
+Confirmed Root Cause:
+Low label contrast from a depleted print ribbon.
+
+Resolution:
+Authorised operators replaced the ribbon and quality validated sample barcode readability.
+
+Safety Note:
+This is a fictional incident. All work is carried out by authorised personnel under approved site procedures.

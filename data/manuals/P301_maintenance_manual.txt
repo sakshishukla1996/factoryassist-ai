@@ -1,0 +1,21 @@
+Document ID: MAN-P301-001
+Machine: P-301
+Machine Type: Hydraulic Transfer Pump
+Title: Hydraulic Transfer Pump Maintenance Manual
+
+Error Code: E-3018
+Description: Discharge pressure is below the configured operating window.
+
+Possible Causes:
+- Restricted suction strainer
+- Air entering through an inlet seal
+- Incorrect pressure transducer reading
+
+Recommended Procedure:
+1. Notify the shift technician and log the low-pressure alarm.
+2. Follow the site-approved isolation and inspection workflow.
+3. Have authorised personnel review the strainer, inlet seal and pressure sensor records.
+4. Escalate if the alarm remains after verification.
+
+Safety Note:
+Only authorised staff may inspect or service equipment. Follow the site's approved safety, isolation and return-to-service procedures. This is synthetic training data, not operational guidance.

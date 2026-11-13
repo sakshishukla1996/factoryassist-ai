@@ -1,0 +1,21 @@
+Document ID: MAN-R410-001
+Machine: R-410
+Machine Type: Robotic Assembly Arm
+Title: Robotic Assembly Arm Maintenance Manual
+
+Error Code: E-4106
+Description: Joint torque feedback has deviated from the validated cycle envelope.
+
+Possible Causes:
+- Mechanical resistance at the wrist joint
+- Torque sensor calibration drift
+- Unexpected fixture contact
+
+Recommended Procedure:
+1. Pause the affected production cycle using the approved control procedure.
+2. Notify the robotics maintenance team.
+3. Keep personnel outside the safeguarded robot area until authorised access is granted.
+4. Review joint logs and escalate to the robotics supervisor.
+
+Safety Note:
+Only authorised staff may inspect or service equipment. Follow the site's approved safety, isolation and return-to-service procedures. This is synthetic training data, not operational guidance.

@@ -1,0 +1,17 @@
+Procedure ID: SOP-D960-001
+Machine: D-960
+Machine Type: Label Inspection Station
+Related Error Code: E-9604
+Title: Alarm Triage, Documentation and Escalation
+
+Approved Response Workflow:
+1. Record the affected lot range and barcode rejection rate.
+2. Escalate to the label-system owner and quality team.
+3. Use approved inspection procedures for print and camera equipment.
+4. Document repeat-readability tests and disposition of held items.
+
+Scope:
+This is a supervisory checklist, not a technical repair procedure. Technicians must consult the approved site maintenance manual and lockout requirements.
+
+Safety Note:
+Only authorised personnel may inspect, maintain or return equipment to service. This is synthetic training data.

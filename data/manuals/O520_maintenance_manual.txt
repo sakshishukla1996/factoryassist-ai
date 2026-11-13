@@ -1,0 +1,21 @@
+Document ID: MAN-O520-001
+Machine: O-520
+Machine Type: Heat Treatment Oven
+Title: Heat Treatment Oven Maintenance Manual
+
+Error Code: E-5203
+Description: Process temperature has deviated below the approved recipe band.
+
+Possible Causes:
+- Heater stage unavailable
+- Temperature probe reporting drift
+- Unexpected door-open event
+
+Recommended Procedure:
+1. Notify the process owner and flag affected batches for review.
+2. Apply the site-approved equipment isolation procedure before inspection.
+3. Ask authorised maintenance to examine heater-stage status and sensor logs.
+4. Require process-quality approval before releasing affected batches.
+
+Safety Note:
+Only authorised staff may inspect or service equipment. Follow the site's approved safety, isolation and return-to-service procedures. This is synthetic training data, not operational guidance.

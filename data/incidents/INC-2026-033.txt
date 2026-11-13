@@ -1,0 +1,22 @@
+Incident ID: INC-2026-033
+Machine: O-520
+Machine Type: Heat Treatment Oven
+Date: 2026-09-25
+Error Code: E-5203
+Severity: Medium
+Status: Resolved
+
+Issue:
+A maintenance alert occurred because process temperature has deviated below the approved recipe band.
+
+Investigation:
+Event logs showed a missing heater-stage signal; the assigned engineer confirmed a control relay fault.
+
+Confirmed Root Cause:
+A heater stage unavailable following a control relay fault.
+
+Resolution:
+Authorised electrical maintenance restored the heater stage and verified the oven against the approved test plan.
+
+Safety Note:
+This is a fictional incident. All work is carried out by authorised personnel under approved site procedures.

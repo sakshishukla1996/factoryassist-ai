@@ -1,0 +1,17 @@
+Procedure ID: SOP-S740-001
+Machine: S-740
+Machine Type: Packaging Heat Sealer
+Related Error Code: E-7402
+Title: Alarm Triage, Documentation and Escalation
+
+Approved Response Workflow:
+1. Identify affected batch and lot numbers for quality review.
+2. Record temperature traces and heater/controller alarms.
+3. Request authorised maintenance inspection.
+4. Obtain quality sign-off for seal-integrity checks before release.
+
+Scope:
+This is a supervisory checklist, not a technical repair procedure. Technicians must consult the approved site maintenance manual and lockout requirements.
+
+Safety Note:
+Only authorised personnel may inspect, maintain or return equipment to service. This is synthetic training data.

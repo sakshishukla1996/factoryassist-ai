@@ -1,0 +1,17 @@
+Procedure ID: SOP-A630-001
+Machine: A-630
+Machine Type: Compressed Air Station
+Related Error Code: E-6309
+Title: Alarm Triage, Documentation and Escalation
+
+Approved Response Workflow:
+1. Log affected production lines and air-pressure readings.
+2. Notify facilities operations and request authorised investigation.
+3. Follow the plant lockout and pressure-isolation requirements.
+4. Document the repair and release approval.
+
+Scope:
+This is a supervisory checklist, not a technical repair procedure. Technicians must consult the approved site maintenance manual and lockout requirements.
+
+Safety Note:
+Only authorised personnel may inspect, maintain or return equipment to service. This is synthetic training data.

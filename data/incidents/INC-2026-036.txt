@@ -1,0 +1,22 @@
+Incident ID: INC-2026-036
+Machine: F-850
+Machine Type: Liquid Filling Unit
+Date: 2026-10-04
+Error Code: E-8505
+Severity: Medium
+Status: Resolved
+
+Issue:
+A maintenance alert occurred because dispensed volume is outside the validated fill tolerance.
+
+Investigation:
+Quality sampling and calibration records showed the installed meter reading had drifted outside its accepted range.
+
+Confirmed Root Cause:
+Flow-meter calibration drift.
+
+Resolution:
+Authorised calibration personnel restored the meter calibration and quality approved the recheck samples.
+
+Safety Note:
+This is a fictional incident. All work is carried out by authorised personnel under approved site procedures.

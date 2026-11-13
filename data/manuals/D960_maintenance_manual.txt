@@ -1,0 +1,21 @@
+Document ID: MAN-D960-001
+Machine: D-960
+Machine Type: Label Inspection Station
+Title: Label Inspection Station Maintenance Manual
+
+Error Code: E-9604
+Description: Barcode readability has fallen below the inspection acceptance threshold.
+
+Possible Causes:
+- Print-head wear
+- Low label contrast
+- Camera alignment drift
+
+Recommended Procedure:
+1. Hold affected labelled products for inspection.
+2. Notify packaging quality and maintenance staff.
+3. Review sample scans and printer/camera logs.
+4. Release products only after quality verification.
+
+Safety Note:
+Only authorised staff may inspect or service equipment. Follow the site's approved safety, isolation and return-to-service procedures. This is synthetic training data, not operational guidance.

@@ -1,0 +1,22 @@
+Incident ID: INC-2026-031
+Machine: P-301
+Machine Type: Hydraulic Transfer Pump
+Date: 2026-09-19
+Error Code: E-3018
+Severity: Medium
+Status: Resolved
+
+Issue:
+A maintenance alert occurred because discharge pressure is below the configured operating window.
+
+Investigation:
+The technician found intermittent pressure loss while checking logged pump readings; the inlet seal was deteriorated.
+
+Confirmed Root Cause:
+Air entering through a deteriorated inlet seal.
+
+Resolution:
+Authorised staff replaced the seal under an approved maintenance work order and verified stable pressure.
+
+Safety Note:
+This is a fictional incident. All work is carried out by authorised personnel under approved site procedures.

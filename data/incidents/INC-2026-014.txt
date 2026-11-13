@@ -1,0 +1,17 @@
+Incident ID: INC-2026-014
+Machine: M-204
+Date: 2026-09-14
+Error Code: E-2047
+Severity: Medium
+
+Issue:
+The industrial cooling unit reported an elevated temperature warning.
+
+Investigation:
+The maintenance team identified a blocked cooling filter that reduced airflow.
+
+Resolution:
+After following the approved shutdown and isolation procedure, authorised personnel cleaned the filter and verified normal operation.
+
+Status: Resolved
+Root Cause: Blocked cooling filter

@@ -1,0 +1,22 @@
+Document ID: MAN-M204-001
+Machine: M-204
+Machine Type: Industrial Cooling Unit
+Title: Cooling System Maintenance Manual
+
+Error Code: E-2047
+Description: Cooling temperature exceeds the normal operating range.
+
+Possible Causes:
+- Blocked cooling filter
+- Reduced coolant circulation
+- Faulty temperature sensor
+
+Recommended Procedure:
+1. Notify the maintenance technician.
+2. Follow the approved shutdown and isolation procedure.
+3. Inspect the cooling filter for blockage.
+4. Check coolant circulation according to the maintenance instructions.
+5. Escalate to the maintenance supervisor if the issue persists.
+
+Safety Note:
+Only authorised personnel may inspect or service the equipment.

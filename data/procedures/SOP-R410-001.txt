@@ -1,0 +1,17 @@
+Procedure ID: SOP-R410-001
+Machine: R-410
+Machine Type: Robotic Assembly Arm
+Related Error Code: E-4106
+Title: Alarm Triage, Documentation and Escalation
+
+Approved Response Workflow:
+1. Create a service case with robot program version and error code.
+2. Confirm safeguarding and access authorisation before inspection.
+3. Have a robotics specialist review torque alarms and mechanical inspection records.
+4. Record validation and formal return-to-service approval.
+
+Scope:
+This is a supervisory checklist, not a technical repair procedure. Technicians must consult the approved site maintenance manual and lockout requirements.
+
+Safety Note:
+Only authorised personnel may inspect, maintain or return equipment to service. This is synthetic training data.

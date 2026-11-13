@@ -1,0 +1,19 @@
+Document ID: MAN-C105-001
+Machine: C-105
+Machine Type: Conveyor Belt System
+Title: Conveyor Maintenance Manual
+
+Error Code: E-1052
+Description: Conveyor motor temperature exceeds the operating threshold.
+
+Possible Causes:
+- Excessive mechanical load
+- Worn motor bearings
+- Insufficient ventilation
+
+Recommended Procedure:
+1. Notify the maintenance team.
+2. Stop the conveyor using the approved procedure.
+3. Inspect for excessive loading.
+4. Have authorised personnel inspect the motor and bearings.
+5. Record findings in the maintenance log.

@@ -1,0 +1,21 @@
+Document ID: MAN-A630-001
+Machine: A-630
+Machine Type: Compressed Air Station
+Title: Compressed Air Station Maintenance Manual
+
+Error Code: E-6309
+Description: Delivered air pressure has dropped below the plant service threshold.
+
+Possible Causes:
+- Leak in a distribution branch
+- Clogged intake filtration
+- Pressure sensor malfunction
+
+Recommended Procedure:
+1. Notify facilities maintenance and affected production areas.
+2. Record the alarm and service-pressure readings.
+3. Do not open pressurised components; use approved isolation procedures.
+4. Have authorised personnel investigate leaks, filtration and instrumentation.
+
+Safety Note:
+Only authorised staff may inspect or service equipment. Follow the site's approved safety, isolation and return-to-service procedures. This is synthetic training data, not operational guidance.

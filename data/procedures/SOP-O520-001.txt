@@ -1,0 +1,17 @@
+Procedure ID: SOP-O520-001
+Machine: O-520
+Machine Type: Heat Treatment Oven
+Related Error Code: E-5203
+Title: Alarm Triage, Documentation and Escalation
+
+Approved Response Workflow:
+1. Record batch IDs, recipe ID, alarm time and temperature trace.
+2. Hold potentially affected material for quality disposition.
+3. Request authorised electrical and process-engineering investigation.
+4. Record recipe verification and quality release decision.
+
+Scope:
+This is a supervisory checklist, not a technical repair procedure. Technicians must consult the approved site maintenance manual and lockout requirements.
+
+Safety Note:
+Only authorised personnel may inspect, maintain or return equipment to service. This is synthetic training data.

@@ -1,0 +1,17 @@
+Procedure ID: SOP-F850-001
+Machine: F-850
+Machine Type: Liquid Filling Unit
+Related Error Code: E-8505
+Title: Alarm Triage, Documentation and Escalation
+
+Approved Response Workflow:
+1. Open a deviation ticket with lot numbers and sample measurements.
+2. Quarantine affected product according to the site procedure.
+3. Request authorised calibration and valve-performance review.
+4. Document requalification and quality release.
+
+Scope:
+This is a supervisory checklist, not a technical repair procedure. Technicians must consult the approved site maintenance manual and lockout requirements.
+
+Safety Note:
+Only authorised personnel may inspect, maintain or return equipment to service. This is synthetic training data.

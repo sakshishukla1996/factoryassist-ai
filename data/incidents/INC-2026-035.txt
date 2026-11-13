@@ -1,0 +1,22 @@
+Incident ID: INC-2026-035
+Machine: S-740
+Machine Type: Packaging Heat Sealer
+Date: 2026-10-01
+Error Code: E-7402
+Severity: Medium
+Status: Resolved
+
+Issue:
+A maintenance alert occurred because seal-jaw temperature is below the validated packaging setpoint.
+
+Investigation:
+Maintenance history and trend logs confirmed the heating circuit was unable to maintain the validated setpoint.
+
+Confirmed Root Cause:
+Heater cartridge degradation.
+
+Resolution:
+Qualified staff replaced the failed cartridge, verified the setpoint and released the line after quality checks.
+
+Safety Note:
+This is a fictional incident. All work is carried out by authorised personnel under approved site procedures.

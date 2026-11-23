@@ -41,14 +41,20 @@ The project uses synthetic manufacturing maintenance documents, including equipm
 
 The shared application architecture allows infrastructure and inference providers to change without duplicating the core RAG workflow.
 
+
+## Installation
+To install the Locally developed Factory Assistant project, please refer to the [Local Setup](docs/local-setup.md).
+To install the Factory Assistant Project that is deployed on Azure, please refer to the [Azure Deployment](docs/azure-deployment.md).
+
+
 ## Architecture
 
 For the complete system design, data flow, deployment
 architecture, and architectural decisions, see
 [System Architecture](docs/architecture.md).
 
-The ![image](diagram/workflow_local_cloud.png) of Local and Cloud based architectures.
-
+The Workflow of Local and Cloud based architectures is shown below.
+ ![image](diagram/workflow_local_cloud.png) 
 
 ## Documentation
 

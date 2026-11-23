@@ -47,7 +47,7 @@ For the complete system design, data flow, deployment
 architecture, and architectural decisions, see
 [System Architecture](docs/architecture.md).
 
-The [Workflow Diagram](diagram/workflow_local_cloud.png) of Local and Cloud based architectures.
+The ![image](diagram/workflow_local_cloud.png) of Local and Cloud based architectures.
 
 
 ## Documentation
